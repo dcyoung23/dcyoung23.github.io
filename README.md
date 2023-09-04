@@ -5,10 +5,3 @@
 ## Education
 - MBA | Arizona Statement University
 - BS, Business and Management | University of Maryland, Global Campus
-
-## Work Experience
-Wells Fargo
-Sr. Lead Analytics Consultant
-
-## Projects
-[ChemCorp Case Study Analysis](https://public.tableau.com/app/profile/d.chris.young/viz/ChemCorpCaseStudy_15908607381790/AnswerKey)
